@@ -1,5 +1,5 @@
 # butian-src-domains
-![](https://img.shields.io/badge/python-3-blue.svg)![](https://img.shields.io/badge/license-GPL--3.0-orange.svg)
+![](https://img.shields.io/badge/python-3-blue.svg) ![](https://img.shields.io/badge/license-GPL--3.0-orange.svg)
 
 补天公益src域名IP地址集合
 
