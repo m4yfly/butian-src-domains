@@ -6,7 +6,7 @@ asyncio==3.4.3
 attrs==19.1.0
 backoff==1.8.0
 beautifulsoup4==4.7.1
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.2
 chardet==3.0.4
 colorama==0.4.1
